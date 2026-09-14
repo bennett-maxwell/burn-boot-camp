@@ -499,9 +499,9 @@
    "item": "verification record"
   },
   "risk_score_method": {
-   "value": "base 10 + litigation 8 + capital_intensity 8 + ongoing_fee_load 6 + territory 6 + terminations_2024 4 \u2212 item19_coverage 4 \u2212 unit_growth 3 \u2212 audited_financials 2 = 43",
+   "value": "base 10 + litigation 8 + capital_intensity 8 + ongoing_fee_load 6 + territory 6 + terminations_2024 4 \u2212 item19_coverage 4 \u2212 unit_growth 3 \u2212 audited_financials 2 = 33",
    "type": "theoretical",
-   "item": "THEORETICAL \u2014 method: components: base 10; +8 one settled 2016 state regulatory matter ($15k+$4k, no active litigation); +8 investment ceiling $645,344; +6 royalty 6% + brand fund 2%; +6 protected (not exclusive) territory with broad reserved rights; +4 six franchisee terminations in 2024; \u22124 Item-19 coverage 278/365=76.2%; \u22123 net +21 outlets in 2024; \u22122 audited financial statements attached. Recomputes to 43 exactly."
+   "item": "THEORETICAL \u2014 method: components: base 10; +8 one settled 2016 state regulatory matter ($15k+$4k, no active litigation); +8 investment ceiling $645,344; +6 royalty 6% + brand fund 2%; +6 protected (not exclusive) territory with broad reserved rights; +4 six franchisee terminations in 2024; \u22124 Item-19 coverage 278/365=76.2%; \u22123 net +21 outlets in 2024; \u22122 audited financial statements attached. Recomputes to 33 exactly."
   }
  },
  "netWorthRequirement": "not disclosed in FDD",
