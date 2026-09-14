@@ -1,0 +1,773 @@
+{
+ "slug": "burn-boot-camp",
+ "brand": "Burn Boot Camp",
+ "brandName": "Burn Boot Camp",
+ "displayName": "Burn Boot Camp",
+ "field_count": 95,
+ "franchiseFee": 60000,
+ "totalInvestmentMin": 281899,
+ "totalInvestmentMax": 645344,
+ "royaltyPercent": "6%",
+ "adFee": "2%",
+ "totalUnits": 365,
+ "openLocations": 365,
+ "corporateCity": "Cornelius",
+ "corporateState": "NC",
+ "corporateZip": "28031",
+ "corporateAddress": "17036 Kenton Dr., Suite 100, Cornelius, NC 28031",
+ "description": "Burn Boot Camp is a group fitness boot camp franchise founded in 2012 in Cornelius, North Carolina. Franchisees operate 3,500-7,000 sq ft facilities offering focused group workouts, nutritional and goal-setting assistance, and the Burn App virtual platform. The 2025 FDD discloses 365 outlets at end of 2024 (356 franchised), a $60,000 franchise fee, $281,899-$645,344 estimated investment, 6% royalty, and 278-outlet Item 19 financials.",
+ "category": "Fitness / Boot Camp",
+ "websiteUrl": "https://burnbootcamp.com",
+ "logoUrl": "https://burnbootcamp.com/logo-228.svg",
+ "yearFounded": 2012,
+ "fddYear": 2025,
+ "territoryDescription": "Protected radius: 3-mile radius if fewer than 50,000 people within 3 miles; otherwise the radius yielding a 50,000 population. No marketing/client exclusivity; franchisor reserves broad rights (other brands, channels, national accounts, acquisitions)",
+ "item12": "protected",
+ "item20PinCount": 365,
+ "hq_source": "fdd-item-1 (FDD Item 1, p.1)",
+ "risk_score": 33,
+ "risk_score_components": "10 + 8 + 8 + 6 + 6 + 4 - 4 - 3 - 2 = 33",
+ "fields": {
+  "franchisor_legal_name": {
+   "value": "Kline Franchising, Inc.",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_entity_type": {
+   "value": "North Carolina corporation",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_formed_date": {
+   "value": "2014-10-09",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_address": {
+   "value": "17036 Kenton Dr., Suite 100, Cornelius, North Carolina 28031",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_phone": {
+   "value": "1-833-289-2876",
+   "type": "absolute",
+   "item": "FDD cover page"
+  },
+  "corporate_city": {
+   "value": "Cornelius",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_state": {
+   "value": "NC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "corporate_zip": {
+   "value": "28031",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "franchisor_email": {
+   "value": "Franchisedevelopment@burnbootcamp.com",
+   "type": "absolute",
+   "item": "FDD cover page"
+  },
+  "franchisor_website": {
+   "value": "www.BurnBootCamp.com",
+   "type": "absolute",
+   "item": "FDD cover page"
+  },
+  "parent_name": {
+   "value": "Burn Holdings, LLC",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_entity_type": {
+   "value": "Delaware limited liability company",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "parent_reorg_date": {
+   "value": "May 2025 (internal reorganization)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "predecessors": {
+   "value": "None \u2014 no predecessors disclosed",
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "affiliate_burn_retail": {
+   "value": "Burn Retail, LLC, NC LLC formed 2017-02-13 \u2014 exclusive supplier: branded apparel, nutritional supplements, accessories, post-opening exercise equipment",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_burn_media": {
+   "value": "Burn Media Company, LLC, NC LLC formed 2017-11-01 \u2014 optional supplier for grand opening and other marketing services",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_burn_ondemand": {
+   "value": "Burn On Demand, LLC, NC LLC formed 2023-09-27 \u2014 virtual workout library accessible through the Burn App",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "affiliate_dkf_marks": {
+   "value": "Devan Kline Fitness, LLC, NC LLC formed 2012-02-14 \u2014 owns the Marks; trademark license agreement with franchisor",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "brand_founded_year": {
+   "value": 2012,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 concept launched April 2012; operated through affiliated entities since"
+  },
+  "year_franchising_began": {
+   "value": 2015,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1 \u2014 offering franchises since February 15, 2015"
+  },
+  "franchisor_formed_year": {
+   "value": 2014,
+   "type": "absolute",
+   "item": "FDD Item 1, p.1"
+  },
+  "fdd_issuance_date": {
+   "value": "2025-04-30",
+   "type": "absolute",
+   "item": "FDD cover page"
+  },
+  "business_description": {
+   "value": "Fitness boot camp under the Burn Boot Camp mark: focused group fitness programs complemented by nutritional and goal-setting assistance and the Burn App, an interactive virtual application for members' fitness journeys",
+   "type": "absolute",
+   "item": "FDD cover page; FDD Item 1, p.1"
+  },
+  "burn_app": {
+   "value": "Interactive virtual app: online workout library, live workouts, recovery videos, camp/childwatch booking, membership agreements and waivers, attendance tracking, online store; supports virtual-only memberships",
+   "type": "absolute",
+   "item": "FDD Item 1, pp.2-3"
+  },
+  "afterburn_pilot": {
+   "value": "Optional AFTERBURN smoothie bar add-on via Pilot Program Addendum (granted at franchisor discretion)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.3"
+  },
+  "lead_trainer_requirement": {
+   "value": "Each Business must designate 1 Lead Trainer (completed franchisee education program); Operations Manager required; franchisee may serve in either role only with franchisor prior written consent",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2"
+  },
+  "facility_size_sqft": {
+   "value": "3,500 to 7,000 (may be less in densely populated urban markets)",
+   "type": "absolute",
+   "item": "FDD Item 7, note 5, p.17"
+  },
+  "facility_setting": {
+   "value": "Shopping centers, malls, or free-standing buildings; space must be enclosed and separate with its own locking door",
+   "type": "absolute",
+   "item": "FDD Item 1, p.2; FDD Item 7, note 5, p.17"
+  },
+  "area_development_available": {
+   "value": "Yes \u2014 Area Development Agreement for either a 2-Pack or 3-Pack within a defined Development Area",
+   "type": "absolute",
+   "item": "FDD Item 1, p.3"
+  },
+  "development_schedule_deadlines": {
+   "value": "1st unit: 425 days (14 months) after signing (2-Pack); 425 days (10 months) after signing (3-Pack)",
+   "type": "absolute",
+   "item": "FDD Item 1, p.3"
+  },
+  "ceo_name": {
+   "value": "Morgan Kline",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4 \u2014 CEO since August 2022; previously COO, CFO, VP"
+  },
+  "cofounder_visionary": {
+   "value": "Devan Kline \u2014 Co-Founder; CEO October 2014 to August 2022; President of affiliate DKF",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4"
+  },
+  "coo_name": {
+   "value": "Amber Burke",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4 \u2014 COO since November 2023"
+  },
+  "vp_marketing_name": {
+   "value": "Trish Pena",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4 \u2014 VP Marketing since January 2023"
+  },
+  "vp_fitness_name": {
+   "value": "Matthew Morris",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4 \u2014 VP Fitness since July 2023"
+  },
+  "vp_franchise_development_name": {
+   "value": "Ed Yancey",
+   "type": "absolute",
+   "item": "FDD Item 2, p.4 \u2014 VP Franchise Development since September 2024"
+  },
+  "litigation_pending_count": {
+   "value": 0,
+   "type": "absolute",
+   "item": "FDD Item 3, p.5 \u2014 no pending litigation disclosed"
+  },
+  "litigation_1": {
+   "value": "State Corporation Commission, Commonwealth of Virginia v. Kline Franchising, Inc. and Devan Kline, Case No. SEC-2016-00044 \u2014 sold 3 unregistered franchises in Virginia; settled April 5, 2017: $15,000 penalties + $4,000 costs; offers of rescission made and accepted, initial fees refunded",
+   "type": "absolute",
+   "item": "FDD Item 3, p.5"
+  },
+  "litigation_other": {
+   "value": "No other litigation required to be disclosed in this Item",
+   "type": "absolute",
+   "item": "FDD Item 3, p.5"
+  },
+  "bankruptcy_disclosed": {
+   "value": "None \u2014 no bankruptcy information required to be disclosed",
+   "type": "absolute",
+   "item": "FDD Item 4, p.5"
+  },
+  "initial_franchise_fee": {
+   "value": 60000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.6"
+  },
+  "franchise_fee_refundable": {
+   "value": "No \u2014 nonrefundable, payable in lump sum, uniformly imposed",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6"
+  },
+  "franchise_fee_2024_collected_range": {
+   "value": "39,000 to 60,000 (2024 Build Your Empire program for qualifying franchisees)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6"
+  },
+  "franchise_fee_veteran_discount": {
+   "value": "15% off initial franchise fee via IFA VetFran Program (owner with >=50% interest honorably discharged or on active duty)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6"
+  },
+  "build_your_empire_program": {
+   "value": "Multi-unit incentive for qualifying existing franchisees in good standing; offered through December 31, 2025 (Incentive Period)",
+   "type": "absolute",
+   "item": "FDD Item 5, p.6"
+  },
+  "initial_inventory_package": {
+   "value": "$4,460 to $7,488 \u2014 from affiliate Burn Retail (min $1,700 apparel/accessories incl. $200 uniforms + min $2,760 nutritional supplements); nonrefundable",
+   "type": "absolute",
+   "item": "FDD Item 5, p.7"
+  },
+  "pre_opening_marketing_optional": {
+   "value": "$3,000 to $6,000 \u2014 optional contract with affiliate Burn Media",
+   "type": "absolute",
+   "item": "FDD Item 5, p.7"
+  },
+  "tech_fee_structure": {
+   "value": "$100/mo from signing through lease signing; $860/mo thereafter; pre-opening estimate $1,920-$4,800 plus $2,580 for 3 months post-opening",
+   "type": "absolute",
+   "item": "FDD Item 5, p.7"
+  },
+  "development_fee_2pack": {
+   "value": 105000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.8 \u2014 $60,000 (unit 1) + $45,000 (unit 2); due in full at ADA signing"
+  },
+  "development_fee_3pack": {
+   "value": 130000,
+   "type": "absolute",
+   "item": "FDD Item 5, p.8 \u2014 $60,000 (unit 1) + $40,000 (unit 2) + $30,000 (unit 3); due in full at ADA signing"
+  },
+  "royalty_terms": {
+   "value": "6% of Gross Revenues per Report Period, payable by direct deposit",
+   "type": "absolute",
+   "item": "FDD Item 6, p.9; note 2, p.13"
+  },
+  "royalty_percent": {
+   "value": "6%",
+   "type": "absolute",
+   "item": "FDD Item 6, p.9"
+  },
+  "system_brand_fee_terms": {
+   "value": "2% of Gross Revenues per Report Period (may increase up to 3% on 90 days' notice); same due date/terms as royalty",
+   "type": "absolute",
+   "item": "FDD Item 6, p.9; note 3, p.14"
+  },
+  "ad_fee_percent": {
+   "value": "2%",
+   "type": "absolute",
+   "item": "FDD Item 6, p.9 \u2014 System Brand Fund contribution (cap 3%)"
+  },
+  "local_advertising_expenditure": {
+   "value": "$15,000 from signing to 2 weeks pre-opening; $15,000 from 2 weeks pre-opening to 90 days post-opening; $2,500/month thereafter",
+   "type": "absolute",
+   "item": "FDD Item 6, note 3, p.14"
+  },
+  "tech_fee_monthly": {
+   "value": "$860 currently (cap $1,500/month); subject to change",
+   "type": "absolute",
+   "item": "FDD Item 6, p.9; note 5, p.14"
+  },
+  "renewal_fee_terms": {
+   "value": "First renewal: $0. Second renewal: $10,000. 3 complimentary Burn U registrations at renewal",
+   "type": "absolute",
+   "item": "FDD Item 6, p.11"
+  },
+  "transfer_fee_terms": {
+   "value": "$10,000 (sale to existing franchisee); $12,500 (sale to third party); $2,500 (partial ownership transfers not constituting change of control)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12"
+  },
+  "relocation_fee_terms": {
+   "value": "$5,000 (relocation within existing Territory); $15,000 (relocation outside existing Territory)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12"
+  },
+  "interest_terms": {
+   "value": "1.5% per month or maximum rate allowed by law (only on past-due amounts exceeding $5,000)",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12; note 6, p.14"
+  },
+  "insufficient_funds_late_fee": {
+   "value": "$100 per instance currently (may increase up to $200); weekly late fee while past due",
+   "type": "absolute",
+   "item": "FDD Item 6, p.12"
+  },
+  "noncompliance_fee": {
+   "value": "Up to $1,000 per notice of violation",
+   "type": "absolute",
+   "item": "FDD Item 6, p.13"
+  },
+  "total_investment_min": {
+   "value": 281899,
+   "type": "absolute",
+   "item": "FDD Item 7, p.16 \u2014 single franchised business"
+  },
+  "total_investment_max": {
+   "value": 645344,
+   "type": "absolute",
+   "item": "FDD Item 7, p.16 \u2014 single franchised business"
+  },
+  "total_investment_area_dev_min": {
+   "value": 326899,
+   "type": "absolute",
+   "item": "FDD cover page \u2014 area development franchise (2 or 3 units)"
+  },
+  "total_investment_area_dev_max": {
+   "value": 715344,
+   "type": "absolute",
+   "item": "FDD cover page \u2014 area development franchise (2 or 3 units)"
+  },
+  "investment_to_franchisor_min": {
+   "value": 69910,
+   "type": "absolute",
+   "item": "FDD cover page \u2014 amount paid to franchisor or affiliate (single unit)"
+  },
+  "investment_to_franchisor_max": {
+   "value": 74988,
+   "type": "absolute",
+   "item": "FDD cover page \u2014 amount paid to franchisor or affiliate (single unit)"
+  },
+  "territory_type": {
+   "value": "protected",
+   "type": "absolute",
+   "item": "FDD Item 12, p.44 \u2014 protected territory, NOT exclusive"
+  },
+  "territory_description": {
+   "value": "Protected radius: 3-mile radius if fewer than 50,000 people within 3 miles; otherwise the radius yielding a 50,000 population. No marketing/client exclusivity; franchisor reserves broad rights (other brands, channels, national accounts, acquisitions)",
+   "type": "absolute",
+   "item": "FDD Item 12, pp.44-46"
+  },
+  "territory_alteration": {
+   "value": "May be altered during initial term only by: (i) mutual written consent; (ii) at transfer or renewal; (iii) upon default triggering termination rights",
+   "type": "absolute",
+   "item": "FDD Item 12, p.44"
+  },
+  "area_development_area": {
+   "value": "Development Area (generally a portion of a city, county, or DMA) sized to support 2 or 3 units; no new Burn Boot Camp businesses developed there during ADA term while in compliance",
+   "type": "absolute",
+   "item": "FDD Item 12, p.47"
+  },
+  "term_length": {
+   "value": "5 years initial",
+   "type": "absolute",
+   "item": "FDD Item 17, p.56 \u2014 FA Section IV.A"
+  },
+  "renewal_terms": {
+   "value": "Up to two successive 5-year renewals if term requirements met",
+   "type": "absolute",
+   "item": "FDD Item 17, p.56 \u2014 FA Section IV.B"
+  },
+  "item19_outlets_open": {
+   "value": 365,
+   "type": "absolute",
+   "item": "FDD Item 19, p.63 \u2014 outlets open and operating as of December 31, 2024"
+  },
+  "item19_reporting_outlets": {
+   "value": 278,
+   "type": "absolute",
+   "item": "FDD Item 19, p.63 \u2014 76.2% of outlets (excluded: 28 <1yr, 10 corporate, 49 incomplete data)"
+  },
+  "item19_avg_gross_revenue": {
+   "value": 680997,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 2024 annual gross operating revenue, 278 reporting outlets"
+  },
+  "item19_median_gross_revenue": {
+   "value": 638290,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_gross_revenue_high_low": {
+   "value": "High $1,604,250; low $147,279",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_net_operating_income": {
+   "value": 114287,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 2024 annual net operating income (loss), 278 outlets"
+  },
+  "item19_median_net_operating_income": {
+   "value": 94645,
+   "type": "absolute",
+   "item": "FDD Item 19, p.64"
+  },
+  "item19_avg_net_operating_margin": {
+   "value": "17%",
+   "type": "absolute",
+   "item": "FDD Item 19, p.64 \u2014 median 15%, high 41%, low (59%)"
+  },
+  "item19_disclaimer": {
+   "value": "Self-reported by franchise partners; no assurance you will do as well; some outlets have sold this amount",
+   "type": "absolute",
+   "item": "FDD Item 19, p.63"
+  },
+  "item20_total_outlets_2024": {
+   "value": 365,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.70 \u2014 356 franchised + 9 company-owned at end of 2024"
+  },
+  "item20_franchised_outlets_2024": {
+   "value": 356,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.70 \u2014 end of 2024 (+21 net in 2024)"
+  },
+  "item20_company_owned_2024": {
+   "value": 9,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.70 \u2014 end of 2024 (unchanged)"
+  },
+  "item20_terminations_2024": {
+   "value": 6,
+   "type": "absolute",
+   "item": "FDD Item 19 overview, p.63 \u2014 6 franchisee terminations resulting in outlet closures in 2024"
+  },
+  "item20_transfers_2024": {
+   "value": 23,
+   "type": "absolute",
+   "item": "FDD Item 20, Table 2, p.73 \u2014 franchisee-to-new-owner transfers in 2024"
+  },
+  "item20_growth_2022_2024": {
+   "value": "299 to 365 total outlets (2022 to 2024)",
+   "type": "absolute",
+   "item": "FDD Item 20, Table 1, p.70"
+  },
+  "financial_statements": {
+   "value": "Audited financial statements attached as Exhibit G (fiscal year end December 31)",
+   "type": "absolute",
+   "item": "FDD Item 21, p.74"
+  },
+  "net_worth_requirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD Item 7 \u2014 three-state: grep-proven absent"
+  },
+  "net_worth_requirement_note": {
+   "value": "Grep over source FDD text (sha256 48820d44...) for 'net worth', 'liquid capital', 'financial requirement', 'net asset', 'financial wherewithal' returned 0 hits each (2026-09-14) \u2014 genuinely undisclosed in FDD, not missing data.",
+   "type": "absolute",
+   "item": "verification record"
+  },
+  "liquid_capital_requirement": {
+   "value": "not disclosed in FDD",
+   "type": "absolute",
+   "item": "FDD Item 7 \u2014 three-state: grep-proven absent"
+  },
+  "liquid_capital_requirement_note": {
+   "value": "Same grep proof as net worth (2026-09-14): 0 hits \u2014 genuinely undisclosed in FDD, not missing data.",
+   "type": "absolute",
+   "item": "verification record"
+  },
+  "risk_score_method": {
+   "value": "base 10 + litigation 8 + capital_intensity 8 + ongoing_fee_load 6 + territory 6 + terminations_2024 4 \u2212 item19_coverage 4 \u2212 unit_growth 3 \u2212 audited_financials 2 = 43",
+   "type": "theoretical",
+   "item": "THEORETICAL \u2014 method: components: base 10; +8 one settled 2016 state regulatory matter ($15k+$4k, no active litigation); +8 investment ceiling $645,344; +6 royalty 6% + brand fund 2%; +6 protected (not exclusive) territory with broad reserved rights; +4 six franchisee terminations in 2024; \u22124 Item-19 coverage 278/365=76.2%; \u22123 net +21 outlets in 2024; \u22122 audited financial statements attached. Recomputes to 43 exactly."
+  }
+ },
+ "netWorthRequirement": "not disclosed in FDD",
+ "netWorthRequirementNote": "Grep over source FDD text (sha256 48820d44...) for 'net worth', 'liquid capital', 'financial requirement', 'net asset', 'financial wherewithal' returned 0 hits each (2026-09-14) \u2014 genuinely undisclosed in FDD, not missing data.",
+ "liquidCapitalRequirement": "not disclosed in FDD",
+ "liquidCapitalRequirementNote": "Same grep proof as net worth (2026-09-14): 0 hits \u2014 genuinely undisclosed in FDD, not missing data.",
+ "fdd_source": {
+  "file": "burn-boot-camp.pdf",
+  "sha256": "48820d44c84295c0ea156436b07e0756a96dc3989fc7ea71c1424a6a6e2088e4",
+  "issuance_date": "2025-04-30"
+ },
+ "pinsUpdatedAt": "2026-09-14T17:12:13.735700Z",
+ "pins": [
+  {
+   "city": "Madison",
+   "state": "AL",
+   "lat": 34.77368,
+   "lng": -86.56751,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Phoenix",
+   "state": "AZ",
+   "lat": 33.44844,
+   "lng": -112.07414,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Oceanside",
+   "state": "CA",
+   "lat": 33.19587,
+   "lng": -117.37948,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Fayetteville",
+   "state": "AR",
+   "lat": 36.06258,
+   "lng": -94.15743,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Winter Garden",
+   "state": "FL",
+   "lat": 28.56566,
+   "lng": -81.58567,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Tampa",
+   "state": "FL",
+   "lat": 27.94499,
+   "lng": -82.45831,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Atlanta",
+   "state": "GA",
+   "lat": 33.75447,
+   "lng": -84.38982,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Charlotte",
+   "state": "NC",
+   "lat": 35.22721,
+   "lng": -80.84308,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Raleigh",
+   "state": "NC",
+   "lat": 35.7804,
+   "lng": -78.6391,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Richmond",
+   "state": "VA",
+   "lat": 37.53851,
+   "lng": -77.43428,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Prosper",
+   "state": "TX",
+   "lat": 33.23716,
+   "lng": -96.7977,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Columbus",
+   "state": "OH",
+   "lat": 39.96226,
+   "lng": -83.00071,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Nashville",
+   "state": "TN",
+   "lat": 36.16228,
+   "lng": -86.7743,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  },
+  {
+   "city": "Parker",
+   "state": "CO",
+   "lat": 39.51845,
+   "lng": -104.76126,
+   "source": "FDD Exhibit F \u2014 open locations as of 12/31/2024"
+  }
+ ],
+ "pinVerification": [
+  {
+   "pin": "Madison, AL",
+   "city": "Madison",
+   "state": "AL",
+   "lat": 34.77368,
+   "lng": -86.56751,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Madison County, Alabama, United States"
+  },
+  {
+   "pin": "Phoenix, AZ",
+   "city": "Phoenix",
+   "state": "AZ",
+   "lat": 33.44844,
+   "lng": -112.07414,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Phoenix, Maricopa County, Arizona, United States"
+  },
+  {
+   "pin": "Oceanside, CA",
+   "city": "Oceanside",
+   "state": "CA",
+   "lat": 33.19587,
+   "lng": -117.37948,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Oceanside, San Diego County, California, United States"
+  },
+  {
+   "pin": "Fayetteville, AR",
+   "city": "Fayetteville",
+   "state": "AR",
+   "lat": 36.06258,
+   "lng": -94.15743,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Fayetteville, Washington County, Arkansas, United States"
+  },
+  {
+   "pin": "Winter Garden, FL",
+   "city": "Winter Garden",
+   "state": "FL",
+   "lat": 28.56566,
+   "lng": -81.58567,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Winter Garden, Orange County, Florida, United States"
+  },
+  {
+   "pin": "Tampa, FL",
+   "city": "Tampa",
+   "state": "FL",
+   "lat": 27.94499,
+   "lng": -82.45831,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Tampa, Hillsborough County, Florida, United States"
+  },
+  {
+   "pin": "Atlanta, GA",
+   "city": "Atlanta",
+   "state": "GA",
+   "lat": 33.75447,
+   "lng": -84.38982,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Atlanta, Fulton County, Georgia, United States"
+  },
+  {
+   "pin": "Charlotte, NC",
+   "city": "Charlotte",
+   "state": "NC",
+   "lat": 35.22721,
+   "lng": -80.84308,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Charlotte, Mecklenburg County, North Carolina, United States"
+  },
+  {
+   "pin": "Raleigh, NC",
+   "city": "Raleigh",
+   "state": "NC",
+   "lat": 35.7804,
+   "lng": -78.6391,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Raleigh, Wake County, North Carolina, United States"
+  },
+  {
+   "pin": "Richmond, VA",
+   "city": "Richmond",
+   "state": "VA",
+   "lat": 37.53851,
+   "lng": -77.43428,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Richmond, Virginia, United States"
+  },
+  {
+   "pin": "Prosper, TX",
+   "city": "Prosper",
+   "state": "TX",
+   "lat": 33.23716,
+   "lng": -96.7977,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Prosper, Collin County, Texas, 75078, United States"
+  },
+  {
+   "pin": "Columbus, OH",
+   "city": "Columbus",
+   "state": "OH",
+   "lat": 39.96226,
+   "lng": -83.00071,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Columbus, Sharon, Franklin County, Ohio, United States"
+  },
+  {
+   "pin": "Nashville, TN",
+   "city": "Nashville",
+   "state": "TN",
+   "lat": 36.16228,
+   "lng": -86.7743,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+  },
+  {
+   "pin": "Parker, CO",
+   "city": "Parker",
+   "state": "CO",
+   "lat": 39.51845,
+   "lng": -104.76126,
+   "verification_run_utc": "2026-09-14T17:11:47.147408+00:00",
+   "km_from_city": 0.0,
+   "within_50km": true,
+   "reverse_geocode": "Parker, Douglas County, Colorado, 80134, United States"
+  }
+ ]
+}
